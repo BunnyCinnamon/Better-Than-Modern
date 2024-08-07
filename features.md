@@ -247,3 +247,9 @@
     - Map Item, use as navigation tool or lock it to a particular area.
 12. Crafting, now the inventory has a crafting book, hovering will show the recipe on the grid, clicking will move the items to the grid.
 13. Inventory shortcuts have been ported, double click, hold and drag, split stack, equip armor.
+14. Mob rework.
+    - Improved walking pathfinding.
+    - Skeletons strafe around the target.
+    - Cows, pigs, sheep, chickens can be bred.
+    - Sheep regrow their wool.
+    - Nametag mobs, can be named in the smithing table.
