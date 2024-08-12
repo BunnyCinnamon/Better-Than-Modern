@@ -165,7 +165,7 @@
    - Minecarts.
       - Minecart with chest, hopper interactions.
       - Minecart with hopper, collects items into minecarts with chests.
-      - Minecart with dispenser, places tracks automatically, can place primed tnt on a redstone signal if the adyacent block is empty.
+      - Minecart with dispenser, places tracks automatically, can place primed tnt on a redstone signal if the adyacent block is empty and it has traveled a distance.
 3. Hunger. Makes use of the saturation value of foods to dictate how much and how often one can consume food to regenerate health.
    - Step 1. Take damage.
    - Step 2. Eat until hunger bar fills, full health again.
@@ -232,6 +232,7 @@
    - Gold.
 7. Armor changes.
    - Leather, Diamond, Iron, have different armor values.
+   - Armor glint effect.
    - New dog armor.
 8. Dogs.
    - Ride dogs.
@@ -253,3 +254,9 @@
     - Cows, pigs, sheep, chickens can be bred.
     - Sheep regrow their wool.
     - Nametag mobs, can be named in the smithing table.
+15. Hell dimension has temperature, entities are set on fire unless a potion of fire resistance is active or the entity is wearing golden armor.
+16. Chests have open and close sounds.
+17. Guardians drop prismarine tridents, it has a visual indication that a trident will be proped.
+18. Tridents launch the player to the air, reseting fall distance.
+19. Furnaces no longer reset their facing when lit.
+20. Slim player model and texture.
