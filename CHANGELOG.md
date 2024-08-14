@@ -31,3 +31,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed stair copper blocks shifting shape when double clicking with slimeballs.
 - Fixed mobs not spawning at night.
 - Fixed trader not having any trades.
+
+## [1.1.2] - 2024-08-14
+
+### Changed
+
+- Guardians now require 2 vertical blocks of free space to spawn.
+- Wolves no longer walk faster when not being ridden.
+- Moss blocks can be instamined with axe and shear tools or tool with efficiency above 30.
+- Nether generates bone structures that pierce the ceiling.
+
+### Fixed
+
+- Fixed illagers that spawn in groups not counting towards the total mob count.
+- Fixed workbench and cartography tables missing texture coloring on the bottom side face.
+- Fixed shears not getting damage harvesting moss and vines.
