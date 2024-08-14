@@ -23,3 +23,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed armor items not auto equiping on shift click in the inventory ui.
 - Fixed kelp textures showing on redstone dust.
 - Fixed rails not powering up properly on direct current or in a row from neighboring rails.
+
+## [1.1.1] - 2024-08-13
+
+### Fixed
+
+- Fixed stair copper blocks shifting shape when double clicking with slimeballs.
+- Fixed mobs not spawning at night.
+- Fixed trader not having any trades.
