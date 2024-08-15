@@ -46,3 +46,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed illagers that spawn in groups not counting towards the total mob count.
 - Fixed workbench and cartography tables missing texture coloring on the bottom side face.
 - Fixed shears not getting damage harvesting moss and vines.
+
+## [1.1.3] - 2024-08-14
+
+### Changed
+
+- Guardians now require 1 vertical block above and below of free space to spawn.
+
+### Fixed
+
+- Fixed boats drowning the player.
