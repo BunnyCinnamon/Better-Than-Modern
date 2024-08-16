@@ -59,6 +59,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.4] - 2024-08-14
 
+### Changed
+
+- Guardians now prioritize block paths that are 2 water blocks deep or more.
+
 ### Fixed
 
 - Fixed stairs texture glitches.
