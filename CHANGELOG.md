@@ -56,3 +56,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Fixed boats drowning the player.
+
+## [1.1.4] - 2024-08-14
+
+### Fixed
+
+- Fixed stairs texture glitches.
+- Fixed mobs not dropping items on high dynamic difficulty.
