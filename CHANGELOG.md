@@ -62,8 +62,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Guardians now prioritize block paths that are 2 water blocks deep or more.
+- Chests can now be oppened under other chests.
 
 ### Fixed
 
 - Fixed stairs texture glitches.
 - Fixed mobs not dropping items on high dynamic difficulty.
+- Fixed sponge playing distorded water sounds.
+- Fixed buckets not staying on the same slot when the stack is one.
