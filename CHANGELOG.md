@@ -97,3 +97,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Fixed beds not spawning the player on top side slabs.
+- Fixes slimes not spawning smaller slimes on death.
