@@ -104,6 +104,7 @@
     - Purpur.
     - Prismarine.
     - Copper.
+24. New grass step block, created by right clicking grass with a shovel.
 
 ### B. Nether
 1. No debrock ceiling, world height of 256.
