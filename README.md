@@ -2,7 +2,9 @@
 Minecraft Beta mod
 
 Mod Version: 1.0.0
+
 Compatibility: None
+
 Download Link: https://github.com/BunnyCinnamon/Better-Than-Modern/releases/latest
 
 Issue Tracker: https://github.com/BunnyCinnamon/Better-Than-Modern/issues
