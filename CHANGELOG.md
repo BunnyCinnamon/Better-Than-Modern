@@ -92,3 +92,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Right clicking grass into steps.
 - Add sounds for static lava and lava pops.
 - Illager mages despawn the whole group at night, unless killed.
+- Reduced illagers spawn rate.
+
+### Fixed
+
+- Fixed beds not spawning the player on top side slabs.
