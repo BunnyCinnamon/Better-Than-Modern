@@ -79,3 +79,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed buckets not staying on the same slot when the stack is one.
 - Fixed copper consuming axe durability in creative.
 - Fixed copper consuming slimeballs in creative.
+
+## [1.1.5] - 2024-08-20
+
+### Added
+
+- Steps can be made by right clicking grass with a shovel.
+
+### Changed
+
+- Add sounds for buckets.
+- Right clicking grass into steps.
+- Add sounds for static lava and lava pops.
+- Illager mages despawn the whole group at night, unless killed.
