@@ -77,3 +77,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed mobs not dropping items on high dynamic difficulty.
 - Fixed sponge playing distorded water sounds.
 - Fixed buckets not staying on the same slot when the stack is one.
+- Fixed copper consuming axe durability in creative.
+- Fixed copper consuming slimeballs in creative.
