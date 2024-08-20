@@ -57,7 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed boats drowning the player.
 
-## [1.1.4] - 2024-08-14
+## [1.1.4] - 2024-08-19
 
 ### Changed
 
