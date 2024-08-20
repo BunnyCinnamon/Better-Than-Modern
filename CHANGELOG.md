@@ -63,6 +63,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Guardians now prioritize block paths that are 2 water blocks deep or more.
 - Chests can now be oppened under other chests.
+- Added melon seeds to dungeon loot.
+- Added pumpkin and melon seed crafting recipe from block and item.
+- Make a pumpkin head by right clicking a pumpkin block with shears.
+
+### Removed
+
+- Pumpin head recipe.
 
 ### Fixed
 
