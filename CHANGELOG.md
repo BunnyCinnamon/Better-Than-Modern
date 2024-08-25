@@ -98,3 +98,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed beds not spawning the player on top side slabs.
 - Fixes slimes not spawning smaller slimes on death.
+
+## [1.1.6] - 2024-08-25
+
+### Changed
+
+- Melons and pumpkins stems can grow the block on dirt material blocks.
